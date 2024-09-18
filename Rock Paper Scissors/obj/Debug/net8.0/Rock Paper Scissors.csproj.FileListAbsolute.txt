@@ -1,0 +1,14 @@
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.exe
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.deps.json
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.runtimeconfig.json
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.dll
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0\Rock Paper Scissors.pdb
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.AssemblyInfo.cs
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.dll
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\refint\Rock Paper Scissors.dll
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.pdb
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\Rock Paper Scissors.genruntimeconfig.cache
+C:\repos\fun\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0\ref\Rock Paper Scissors.dll
